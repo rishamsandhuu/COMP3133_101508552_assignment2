@@ -1,0 +1,6 @@
+{
+  "framework": "angular",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/101508552_comp3133_assignment2/browser"
+}
